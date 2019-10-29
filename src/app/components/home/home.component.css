@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+#imgPart2 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../../assets/img/Captura2.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#imgPart2 img {
+    width: 100vw;
+    height: 100vh;
+    left: 0%;
+    position: relative;
+}
+
+#text1 {
+    position: absolute;
+    color: #f2f2f2;
+    top: 10%;
+    left: 15%;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Anton', sans-seri
+}
